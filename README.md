@@ -1,2 +1,2 @@
-# JavaSessionAssignment
-Java Session Assignment
+# JavaSessionsAssignment
+Java Sessions Assignment
